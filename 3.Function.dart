@@ -38,7 +38,7 @@ main(){
   stdout.writeln('Input width: ?');
   double width2 = double.parse(stdin.readLineSync());
 
-  print("Function 3a result: ");
+  print("Function 3b result: ");
   print(area2(width2));
 
 
